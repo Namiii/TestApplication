@@ -1,0 +1,2 @@
+include ':NamiTest'
+project(':NamiTest').projectDir = new File('app')

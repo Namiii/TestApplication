@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testProject</string>
+    <string name="room_image_header_description">Room Header</string>
+    <string name="rooms_left">Rooms Left:</string>
+    <string name="price">Price:</string>
+    <string name="total">Total:</string>
+    <string name="total_price">Total price:</string>
+    <string name="total_fees_included">Total (incl. taxes and hotel fees):</string>
+    <string name="tax_included">incl. taxes and hotel fees</string>
+    <string name="select_button_text">Select</string>
+    <string name="book_button_text">Book now</string>
+</resources>
